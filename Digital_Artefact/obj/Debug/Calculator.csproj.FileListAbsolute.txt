@@ -1,0 +1,12 @@
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\bin\Debug\Calculator.exe
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.exe
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.RSA.resources
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.Morse_Code.resources
+C:\Users\Computer Gallery\Desktop\Mission_4_4_1\Sayem\(S2) App Development in C#\Calculator\obj\Debug\Calculator.Morse_Code_from_a_file.resources
